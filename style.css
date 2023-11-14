@@ -104,8 +104,7 @@ a:hover{
 
 .menu-links{
     display: block;
-    padding: 10px;
-
+    padding-top: 10px;
     text-align: center;
     font-size: 1.5rem;
     color: black;
@@ -115,6 +114,7 @@ a:hover{
 
 .menu-links li{
     list-style: none;
+    padding: 10px;
 }
 
 .menu-links.open{
